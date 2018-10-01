@@ -94,76 +94,7 @@ code {
 .bs-example .row + .row {
   margin-top: 1rem; }
 
-.table-white-space th, .table-white-space td {
-  white-space: nowrap; }
 
-.table-borderless td, .table-borderless th {
-  border: none; }
-
-.table thead th {
-  vertical-align: bottom;
-  border-bottom: 2px solid #e3ebf3;
-  border-top: 1px solid #e3ebf3; }
-
-.table-bordered th, .table-bordered td {
-  border: 1px solid #e3ebf3; }
-
-.table th, .table td {
-  border-bottom: 1px solid #e3ebf3; }
-
-.table-bordered {
-  border: 1px solid #e3ebf3; }
-
-.table-inverse {
-  color: #eceeef;
-  background-color: #1D2B36; }
-
-.table.table-column th, .table.table-column td {
-  border: none;
-  border-left: 1px solid #e3ebf3; }
-
-.table.table-column th:first-child, .table.table-column td:first-child {
-  border-left: none; }
-
-.table th, .table td {
-  border-top: table-borderless; }
-
-.table th, .table td {
-  padding: 0.75rem 2rem; }
-
-.table.table-xl th, .table.table-xl td {
-  padding: 1.25rem 2rem; }
-
-.table.table-lg th, .table.table-lg td {
-  padding: 0.9rem 2rem; }
-
-.table.table-de th, .table.table-de td {
-  padding: 0.75rem 2rem; }
-
-.table.table-sm th, .table.table-sm td {
-  padding: 0.6rem 2rem; }
-
-.table.table-xs th, .table.table-xs td {
-  padding: 0.4rem 2rem; }
-
-/*
-* Table sizing
-*/
-.table-borderless thead th {
-  border-top: 1px solid #e3ebf3; }
-
-.table-borderless > tbody > tr > td, .table-borderless > tbody > tr > th {
-  border: 0; }
-
-.table > thead > tr.border-solid > th {
-  border-bottom-width: 2px; }
-
-.table > thead > tr.border-double > th {
-  border-bottom-width: 4px;
-  border-bottom-style: double; }
-
-.table > tbody > tr.border-dashed > td {
-  border-top-style: dashed; }
 
 .border-custom-color td {
   border-top: inherit;

@@ -31,7 +31,7 @@ $Db = new MySqlConn;
     
     
     <link rel="stylesheet" type="text/css" href="app-assets/css/bootstrap.css">
-    <link rel="stylesheet" type="test/css" href="includes/DataTables/css/dataTables.bootstrap4.min.css">
+    
     <!-- font icons-->
     <link rel="stylesheet" type="text/css" href="app-assets/fonts/icomoon.css">
     <link rel="stylesheet" type="text/css" href="app-assets/fonts/flag-icon-css/css/flag-icon.min.css">
@@ -53,7 +53,7 @@ $Db = new MySqlConn;
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
    <link rel="stylesheet" type="text/css" href="includes/font/thsaraban9/stylethaisaraban9.css">
-  
+   <link rel="stylesheet" type="test/css" href="app-assets/css/datatable.min.css">
     
     <!-- END Custom CSS-->
   </head>

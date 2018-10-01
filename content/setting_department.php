@@ -22,15 +22,14 @@
 											<div class="tableTools-container"></div>
 										
 											<div class="table-responsive">
-											<table id="setting_department" class=" table table-striped table-bordered table-hover">
-												<thead>
+											<table id="setting_department" class=" table table-striped table-bordered table-hover zero-configuration">
+												<thead class="thead-inverse">
 													<tr>
 													<th></th>
 													<th width="6%"></th>
 													<th width="30%">ชื่อหน่วยงาน</th>
 													<th width="16%">หัวหน้าหน่วยงาน</th>
 													<th width="10%">โทรศัพท์</th>
-													<th width="20%">Line_Token</th>
 													<th width="8%">สถานะ</th>
                                                     <th width="10%">Lastupdate</th>
 														
@@ -66,7 +65,6 @@
 	{"data":"department_name"},
 	{"data":"head_department"},
 	{"data":"department_tel","sClass": "center"},
-	{"data":"department_line_token"},
 	{"data":"department_status","sClass": "center"},
 	{"data":"last_update","sClass": "center"},
 	
